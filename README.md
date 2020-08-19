@@ -1,13 +1,14 @@
 # Learn to Scrape and Analyze Data
 
-![Project Image]<img src="./MyPerk.jpg">
+<img src="./High.jpg">
 
+> Badass Hot Bold Guy
 ---
 
 ## Table of Contents
 - [Description](#description)
 - [Technologies](#technologies)
-- [Instalation](#instalation)
+- [Installation](#installation)
 - [API Reference](#api-reference)
 
 
