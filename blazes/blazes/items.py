@@ -9,6 +9,7 @@ from scrapy.item import Item, Field
 
 class BlazesItem(scrapy.Item):
     # Primary fields
+    #state = Field()
     incident = Field()
     incidentype = Field()
     cause = Field()

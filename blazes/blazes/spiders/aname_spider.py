@@ -17,10 +17,13 @@ class AnameSpider(scrapy.Spider):
     start_urls = ["https://inciweb.nwcg.gov/accessible-view/"]
 
     def parse(self, response):
-        # item = BlazesItem()
-        # l = ItemLoader(item=BlazesItem(), response=response)
-        # l.add_css('incident', '.footable-first-visible a::text')
-        # yield l.load_item()
+        #item = BlazesItem()
+        #l = ItemLoader(item=BlazesItem(), response=response)
+        #l.add_css('state', 'td:nth-child(3)::text')
+        #yield l.load_item()
+        #state = response.css('state', 'td:nth-child(3)::text').extract()
+        #item['state'] = state
+        #yield item
         # Get the next index and yield Requests
         # This code gets the links of every fire in the page we are scraping
         # Get item URLs and yield Requests
@@ -31,6 +34,7 @@ class AnameSpider(scrapy.Spider):
     def parse_item(self, response):
         item = BlazesItem()
         l = ItemLoader(item=BlazesItem(), response=response)
+
         l.add_css('incident', 'h1::text')
         l.add_css('incidentype', '.col-xs-12:nth-child(1) tr:nth-child(2) td+ td::text')
         l.add_css('cause', '.col-xs-12:nth-child(1) tr:nth-child(3) td+ td::text')

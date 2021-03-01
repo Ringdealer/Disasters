@@ -1,5 +1,18 @@
 # Learn to Scrape and Analyze Data
 
+## Analyzing Forest Fires
+
+---
+
+![](https://img.shields.io/badge/made_by-Ringdealer-blue)
+
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/Ringdealer/forest-fires.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Ringdealer/forest-fires/context:python)
+
+[![GitHub issues](https://img.shields.io/github/issues/Ringdealer/forest-fires?style=plastic)](https://github.com/Ringdealer/forest-fires/issues)
+
+
+
+---
 <img src="./High.jpg">
 
 > Badass Hot Bold Guy
@@ -29,7 +42,7 @@ The objective of this project is to scrape a web page for storing its data in a 
 
 ---
 
-### Instalation
+### Installation
 pip install scrapy
 
 ---
@@ -42,6 +55,9 @@ def convert_to_int(word):
 ```
 
 ---
+
+
+
 ## References
 
 [Back to the Top](#Learn-to-Scrape-and-Analyze-Data)

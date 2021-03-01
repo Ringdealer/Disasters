@@ -1,125 +1,129 @@
-cause,coordinates,day,fuelsinvolved,incidentype,location,perimeter,personnel,size
-,,,,,,,,
-"Saturday August 15th, 2020 approx.   07:15 AM",,"Tyler Brown, Texas A&M Forest Service",,Wildfire,"32.722 latitude, -99.481 longitude ",,600 Acres,10%
-Lightning,"33.667 latitude, -105.629 longitude ","Tuesday August 04th, 2020 approx.   04:30 PM",,Wildfire,"Dark Canyon, North of Tucson Mountain. Approx. 9 miles from Capitan, NM",10%,102,"1,509 Acres"
-"Friday August 14th, 2020 approx.   12:30 PM",,"Stephen Tanner, Texas A&M Forest Service",,Wildfire,"33.646 latitude, -98.322 longitude ",,104 Acres,100%
-"Thursday August 13th, 2020 approx.   07:00 PM",,approximately 9 miles north of Fredericksburg,,Wildfire,"Curtis Ward, Texas A&M Forest Service ",,70 Acres,100%
-"Friday August 14th, 2020 approx.   05:10 PM",,"Sam Bundy, Texas A&M Forest Service",,Wildfire,"32.935 latitude, -98.136 longitude ",,67 Acres,70%
-Lightning,"43.982 latitude, -116.058 longitude ","Thursday August 06th, 2020 approx.   01:55 AM",,Wildfire,"8 miles SSW of Garden Valley, Idaho",50%,345,438 Acres
-Lightning,"40.818 latitude, -119.648 longitude ","Wednesday August 12th, 2020 approx.   03:16 PM",,Wildfire,"20 miles NW of Gerlarch, NV",10%,319,"12,100 Acres"
-"Unknown, Under Investigation","40.609 latitude, -105.879 longitude ","Thursday August 13th, 2020 approx.   01:48 PM","Highway 14 is closed from Rustic to Gould. Larimer County has issued evacuation orders for areas around the fire from Highway 14 north to Deadman Road and Four Corners, from Red  Feather Lakes west to Cameron Pass.",Wildfire,"15 miles SW of Redfeather Lakes, CO",,120,"5,424 Acres"
-Human,"45.655 latitude, -121.376 longitude ","Wednesday August 12th, 2020 approx.   12:00 AM",,Wildfire,"Two miles south of Mosier, Oregon",30%,751,985 Acres
-Unknown,Wildfire,"Friday August 14th, 2020 approx.   11:43 AM","Timber,litter and understory",Wildfire,"15 miles NW of Fraser, CO","Friday September 18th, 2020 approx.   12:00 AM",93,"1,300 Acres"
-"32.237 latitude, -110.534 longitude ",,,,Wildfire,,,,
-Lightning,"Fire Burning In Steep, Rugged Terrain","Monday August 10th, 2020 approx.   01:45 PM",Grass and Brush,Wildfire,"Douglas Ranger District on the Coronado National Forest. 11 miles southwest of Portal, AZ",30%,80,"2,900 Acres"
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-"32.204 latitude, -110.547 longitude ",,,,Wildfire,,,,
-"30.093 latitude, -97.203 longitude ",,,,Wildfire,,,25 Acres,95%
-Accidental Roadside Start,,"Thursday August 13th, 2020 approx.   04:30 PM",,Wildfire,"Will Hood, Texas A&M Forest Service",95%,101,400 Acres
-Unknown,"44.459 latitude, -109.547 longitude ","Saturday June 13th, 2020 approx.   12:45 AM",,Wildfire,"25 miles west of Cody, Wyo",100%,3,591 Acres
-"Human Caused, Under Investigation ","33.807 latitude, -112.119 longitude ","Tuesday June 23rd, 2020 approx.   02:30 PM",Grass and brush ,Wildfire,"Darrell Willis, DFFM",100%,90,893 Acres
-Human-caused,,"Saturday June 20th, 2020 approx.   11:00 AM",,Wildfire,NE of New River,100%,25,"4,499 Acres"
-,,,,,,,,
-Lightning,Burning In Rough Steep Terrain,"Friday June 26th, 2020 approx.   10:45 AM",,Wildfire,Split Mountain,,5,18 Acres
-Lightning,"33.419 latitude, -111.301 longitude ","Saturday May 30th, 2020 approx.   10:00 PM",,Wildfire,Superstition Mountains,,"24,729 Acres",100%
-Lightning,"65.854 latitude, -149.579 longitude ","Friday June 05th, 2020 approx.   03:15 PM","Timber (grass and understory),Brush (2 feet),Smoldering in the interior of the burn.",Wildfire,17 miles southwest of Stevens Village,69%,249,"12,180 Acres"
-Under Investigation ,"39.576 latitude, -119.913 longitude ","Friday June 26th, 2020 approx.   09:56 PM",Grass and sage,Wildfire,East side of Peavine Mountain,100%,132,"2,975 Acres"
-Lightning,"Fire Burning Mid-slope In Mixed Conifer And Aspen Between Haycamp And Taylor Mesa, Northeast Of Dolores, Co.","Saturday June 13th, 2020 approx.   12:00 AM",Mixed conifer and aspen,Wildfire,23 miles from Cortez,"Thursday July 02nd, 2020 approx.   06:00 PM",42 Acres,100%
-Human-caused,,"Saturday June 13th, 2020 approx.   02:00 PM",CWZ Type 3 Team will transition the incident back to Tonto National Forest Management 7/2.,Wildfire,"Up to 38 miles northeast of Mesa, AZ along Hwy 87.",100%,20,"193,455 Acres"
-Lightning,Wildfire,"Friday June 26th, 2020 approx.   04:00 PM",,Wildfire,"5 miles north of Oak City, Utah",98%,168,"78,065 Acres"
-Lightning,"35.84 latitude, -109.378 longitude ","Saturday June 27th, 2020 approx.   02:00 PM",,Wildfire,"12.5 miles NE of Ganado, AZ",96%,309,"12,861 Acres"
-"32.345 latitude, -110.876 longitude ",,,,Burned Area Emergency Response,,,,
-Lightning,"33.479 latitude, -110.298 longitude ","Sunday July 12th, 2020 approx.   09:30 AM","Brush, tall grass, and hardwood litter. Heavy grass crop and dry light brush are the primary carriers of the fire. ",Wildfire,15 miles NE of San Carlos,67%,288,"28,051 Acres"
-Human,"31.444 latitude, -111.418 longitude ","Monday July 06th, 2020 approx.   07:32 PM","Chaparral (6 feet),Tall Grass (2.5 feet)",Wildfire,"Approximately 10 miles southwest of Arivaca, AZ on the U.S. / Mexico Border.",90%,11,502 Acres
-Lightning ,Wildfire,"Saturday July 11th, 2020 approx.   10:00 PM",Grass and brush ,Wildfire,14 mi. W. Sahuarita ,100%,10,"2,306 Acres"
-Lightning,"34.266 latitude, -111.54 longitude ","Friday July 03rd, 2020 approx.   03:00 PM",,Wildfire,"Mazatzal Wilderness - 11 miles west of Payson, AZ and 6 miles south of Pine-Strawberry, AZ",92%,177,628 Acres
-Lightning,Wildfire,"Saturday June 06th, 2020 approx.   01:45 PM",,Wildfire,"Tadpole Ridge, 2.5 miles north of Pinos Altos NM.",100%,19,"11,159 Acres"
-Unknown,"43.857 latitude, -107.919 longitude ","Tuesday July 14th, 2020 approx.   04:45 PM",,Wildfire,"7 miles South of Worland, WY",100%,79,"17,545 Acres"
-Lightning,Wildfire,"Friday June 05th, 2020 approx.   10:00 PM","Short Grass (1 foot),Brush (2 feet),Hardwood Litter",Wildfire,Northeast of Tucson,100%,16,"119,987 Acres"
-Lightning,"33.183 latitude, -108.333 longitude ","Saturday June 06th, 2020 approx.   10:15 AM",,Wildfire,1.5 miles southwest of Gila Cliff Dwellings National Monument,100%,1,"17,950 Acres"
-Under Investigation,Wildfire,"Thursday July 16th, 2020 approx.   03:00 AM",,Wildfire,"South of the town of Glenwood, WA",90%,304,250 Acres
-Lightning,"39.888 latitude, -108.442 longitude ","Tuesday July 14th, 2020 approx.   12:15 PM",,Wildfire,"30 miles WSW of Meeker, CO",100%,16,274 Acres
-Human,"Mt. Charleston, Nevada","Sunday June 28th, 2020 approx.   02:30 PM",,Wildfire,"28 miles NW of Las Vegas, Nevada.",100%,185,"2,758 Acres"
-Lightning,"33.315 latitude, -108.562 longitude ","Sunday June 28th, 2020 approx.   11:20 AM",,Wildfire,3 miles northeast of Mogollon Baldy Lookout,100%,1,"25,950 Acres"
-Lightning,"39.793 latitude, -108.195 longitude ","Monday July 13th, 2020 approx.   10:15 AM",,Wildfire,"22 miles SW of Meeker, CO",100%,4,212 Acres
-"Monday July 20th, 2020 approx.   12:00 PM",,"Milepost 21 along Hwy 96, east of highway.",,Wildfire,Wildland Fire,90%,150,100 Acres
-Lightning,"39.804 latitude, -108.362 longitude ","Monday July 13th, 2020 approx.   12:00 PM","Timber (Litter and Understory),Tall Grass (2.5 feet)",Wildfire,"26 miles SW of Meeker, CO",100%,3,"3,226 Acres"
-Lightning,"36.331 latitude, -112.573 longitude ","Thursday July 16th, 2020 approx.   06:00 AM","grass, brush, pinyon/juniper",Wildfire,"33 mi NW of Tusayan, AZ",100%,3,"8,354 Acres"
-Unknown ,"42.503 latitude, -120.553 longitude ","Tuesday July 21st, 2020 approx.   01:00 PM",,Wildfire,"Approximately 13 miles south of Paisley, OR",90%,272,"1,249 Acres"
-Unknown,Contained On 7/17/20,"Wednesday July 08th, 2020 approx.   05:45 PM","Timber (Litter and understory), Brush (2 ft), Short grass (1 ft)",Wildfire,"North of Mountainair, NM; West of Chilili","Friday July 17th, 2020 approx.   12:00 AM",180 Acres,100%
-"33.591 latitude, -111.418 longitude ",,,,Burned Area Emergency Response,,,,
-Lightning,,"Sunday July 26th, 2020 approx.   12:00 AM",,Wildfire,"41.194 latitude, -123.458 longitude ",,,
-Under Investigation,"48.652 latitude, -119.248 longitude ","Monday July 27th, 2020 approx.   04:15 PM",,Wildfire,"Anglin Fire - 8 miles E of Tonasket, WA
+cause,coordinates,day,fuelsinvolved,incident,incidentype,location,perimeter,personnel,size
+"Saturday August 15th, 2020 approx.   07:15 AM",,"Tyler Brown, Texas A&M Forest Service",,Chimney Fire,Wildfire,"32.722 latitude, -99.481 longitude ",,600 Acres,40%
+Lightning,"33.544 latitude, -110.42 longitude ","Saturday August 01st, 2020 approx.   04:30 PM","Primary carrier of the fire is currently the timber litter, grass and light brush associated with the under story of the ponderosa pine forest. Oak scrub is involved on the western edge of the burn area.",Cassadore Springs Fire,Wildfire,"11 miles north of San Carlos, AZ",90%,243,"21,284 Acres"
+Powerline,"30.863 latitude, -100.548 longitude ","Thursday August 13th, 2020 approx.   03:15 PM",,Bucholtz Fire,Wildfire,5 miles east of Eldorado,,73 Acres,100%
+,,,,,,,,,
+,,,,,,,,,
+Lightning,Wildfire,"Friday July 31st, 2020 approx.   05:15 PM","Pinyon, juniper, oak, and sage ",Pine Gulch Fire,Wildfire,"18 miles north of Grand Junction, Colorado",7%,757,"74,807 Acres"
+Unknown,Wildfire,"Friday August 14th, 2020 approx.   11:43 AM","Timber,litter and understory",Williams Fork,Wildfire,"15 miles NW of Fraser, CO","Friday September 18th, 2020 approx.   12:00 AM",93,"1,300 Acres"
+Lightning,"Fire Burning In Steep, Rugged Terrain","Monday August 10th, 2020 approx.   01:45 PM",Grass and Brush,Klaus,Wildfire,"Douglas Ranger District on the Coronado National Forest. 11 miles southwest of Portal, AZ",30%,80,"2,900 Acres"
+,,,,,,,,,
+,,,,,,,,,
+,,,,"
+    ,
+  ",,,,,
+Unknown,,BLM Wyoming,,Bradley Fire,Wildfire,"42.286 latitude, -107.052 longitude ",,"1,700 Acres",90%
+"Saturday August 15th, 2020 approx.   12:15 PM",,"Stephen Tanner, Texas A&M Forest Service",,Trash Pile Fire,Wildfire,"33.858 latitude, -98.831 longitude ",,2 Acres,100%
+Unknown,"46.852 latitude, -112.671 longitude ","Thursday August 06th, 2020 approx.   12:00 AM","Heavy Timber (litter and understory),Fire is burning in gray stage beetle killed lodgepole with a high component of dead and down.  ",Fields Gulch Fire,Wildfire,Brian McGowan,75%,30,5 Acres
+"Tuesday August 11th, 2020 approx.   12:00 AM",,"Josh McGee (IV, USFS)",Mixed,Lake Creek Fire,Wildfire,"43.39 latitude, -105.072 longitude ",40%,38,770 Acres
+"33.961 latitude, -116.811 longitude ",,,,Apple Post-Fire BAER,Burned Area Emergency Response,,,,
+"Monday August 03rd, 2020 approx.   12:00 AM",,San Mateo Mountains,Mixed Conifer and Ponderosa Pine,Seco,Wildfire,Ryan Carbajal,84%,20,26 Acres
+Lightning,"38.183 latitude, -119.869 longitude ","Tuesday July 28th, 2020 approx.   04:30 PM",,Bell Fire,Wildfire,"Emigrant Wilderness, 1.5 miles southeast of Gianelli Trailhead, and 2 miles east of Crabtree Trailhead",,25,13 Acres
+Unkown,Wildfire,"Wednesday August 12th, 2020 approx.   03:45 PM","Chaparral (6 feet),Brush (2 feet),Timber (Grass and Understory)",Lake Fire,Wildfire,"Lake Hughes, Unincorporated LA County",12%,"1,563","14,714 Acres"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Unknown,"44.459 latitude, -109.547 longitude ","Saturday June 13th, 2020 approx.   12:45 AM",,Lost Creek Fire,Wildfire,"25 miles west of Cody, Wyo",100%,3,591 Acres
+Lightning,"65.854 latitude, -149.579 longitude ","Friday June 05th, 2020 approx.   03:15 PM","Timber (grass and understory),Brush (2 feet),Smoldering in the interior of the burn.",Isom Creek Fire (#187),Wildfire,17 miles southwest of Stevens Village,69%,249,"12,180 Acres"
+"Human Caused, Under Investigation ","33.807 latitude, -112.119 longitude ","Tuesday June 23rd, 2020 approx.   02:30 PM",Grass and brush ,Aquila Fire,Wildfire,"Darrell Willis, DFFM",100%,90,893 Acres
+Human-caused,,"Saturday June 20th, 2020 approx.   11:00 AM",,Central Fire,Wildfire,NE of New River,100%,25,"4,499 Acres"
+Lightning,"33.419 latitude, -111.301 longitude ","Saturday May 30th, 2020 approx.   10:00 PM",,Sawtooth Fire ,Wildfire,Superstition Mountains,,"24,729 Acres",100%
+Lightning,Burning In Rough Steep Terrain,"Friday June 26th, 2020 approx.   10:45 AM",,Split Fire,Wildfire,Split Mountain,,5,18 Acres
+Human-caused,,"Saturday June 13th, 2020 approx.   02:00 PM",CWZ Type 3 Team will transition the incident back to Tonto National Forest Management 7/2.,Bush Fire,Wildfire,"Up to 38 miles northeast of Mesa, AZ along Hwy 87.",100%,20,"193,455 Acres"
+Under Investigation ,"39.576 latitude, -119.913 longitude ","Friday June 26th, 2020 approx.   09:56 PM",Grass and sage,Poeville,Wildfire,East side of Peavine Mountain,100%,132,"2,975 Acres"
+,,,,,,,,,
+Lightning,"Fire Burning Mid-slope In Mixed Conifer And Aspen Between Haycamp And Taylor Mesa, Northeast Of Dolores, Co.","Saturday June 13th, 2020 approx.   12:00 AM",Mixed conifer and aspen,Loading Pen,Wildfire,23 miles from Cortez,"Thursday July 02nd, 2020 approx.   06:00 PM",42 Acres,100%
+Lightning,Wildfire,"Friday June 26th, 2020 approx.   04:00 PM",,Canal,Wildfire,"5 miles north of Oak City, Utah",98%,168,"78,065 Acres"
+Human,"31.444 latitude, -111.418 longitude ","Monday July 06th, 2020 approx.   07:32 PM","Chaparral (6 feet),Tall Grass (2.5 feet)",Fresnal Fire,Wildfire,"Approximately 10 miles southwest of Arivaca, AZ on the U.S. / Mexico Border.",90%,11,502 Acres
+Lightning ,Wildfire,"Saturday July 11th, 2020 approx.   10:00 PM",Grass and brush ,Navarro Fire,Wildfire,14 mi. W. Sahuarita ,100%,10,"2,306 Acres"
+Lightning,"34.266 latitude, -111.54 longitude ","Friday July 03rd, 2020 approx.   03:00 PM",,Polles Fire,Wildfire,"Mazatzal Wilderness - 11 miles west of Payson, AZ and 6 miles south of Pine-Strawberry, AZ",92%,177,628 Acres
+"32.345 latitude, -110.876 longitude ",,,,2020 Coronado BAER,Burned Area Emergency Response,,,,
+Lightning,"33.479 latitude, -110.298 longitude ","Sunday July 12th, 2020 approx.   09:30 AM","Brush, tall grass, and hardwood litter. Heavy grass crop and dry light brush are the primary carriers of the fire. ",Blue River 2,Wildfire,15 miles NE of San Carlos,67%,288,"28,051 Acres"
+Lightning,Wildfire,"Saturday June 06th, 2020 approx.   01:45 PM",,Tadpole Fire,Wildfire,"Tadpole Ridge, 2.5 miles north of Pinos Altos NM.",100%,19,"11,159 Acres"
+Lightning,"35.84 latitude, -109.378 longitude ","Saturday June 27th, 2020 approx.   02:00 PM",,Wood Springs 2 Fire,Wildfire,"12.5 miles NE of Ganado, AZ",96%,309,"12,861 Acres"
+Unknown,"43.857 latitude, -107.919 longitude ","Tuesday July 14th, 2020 approx.   04:45 PM",,Neiber Fire,Wildfire,"7 miles South of Worland, WY",100%,79,"17,545 Acres"
+Lightning,Wildfire,"Friday June 05th, 2020 approx.   10:00 PM","Short Grass (1 foot),Brush (2 feet),Hardwood Litter",Bighorn,Wildfire,Northeast of Tucson,100%,16,"119,987 Acres"
+Lightning,"33.183 latitude, -108.333 longitude ","Saturday June 06th, 2020 approx.   10:15 AM",,Good Fire,Wildfire,1.5 miles southwest of Gila Cliff Dwellings National Monument,100%,1,"17,950 Acres"
+Under Investigation,Wildfire,"Thursday July 16th, 2020 approx.   03:00 AM",,Bertschi Road Fire,Wildfire,"South of the town of Glenwood, WA",90%,304,250 Acres
+Human,"Mt. Charleston, Nevada","Sunday June 28th, 2020 approx.   02:30 PM",,Mahogany,Wildfire,"28 miles NW of Las Vegas, Nevada.",100%,185,"2,758 Acres"
+Lightning,"39.804 latitude, -108.362 longitude ","Monday July 13th, 2020 approx.   12:00 PM","Timber (Litter and Understory),Tall Grass (2.5 feet)",Fawn Creek Fire,Wildfire,"26 miles SW of Meeker, CO",100%,3,"3,226 Acres"
+Lightning,"39.888 latitude, -108.442 longitude ","Tuesday July 14th, 2020 approx.   12:15 PM",,Wolf Fire,Wildfire,"30 miles WSW of Meeker, CO",100%,16,274 Acres
+Lightning,"33.315 latitude, -108.562 longitude ","Sunday June 28th, 2020 approx.   11:20 AM",,Cub Fire,Wildfire,3 miles northeast of Mogollon Baldy Lookout,100%,1,"25,950 Acres"
+"Monday July 20th, 2020 approx.   12:00 PM",,"Milepost 21 along Hwy 96, east of highway.",,Milepost 21,Wildfire,Wildland Fire,90%,150,100 Acres
+Unknown ,"42.503 latitude, -120.553 longitude ","Tuesday July 21st, 2020 approx.   01:00 PM",,Ben Young Fire,Wildfire,"Approximately 13 miles south of Paisley, OR",90%,272,"1,249 Acres"
+Unknown,Contained On 7/17/20,"Wednesday July 08th, 2020 approx.   05:45 PM","Timber (Litter and understory), Brush (2 ft), Short grass (1 ft)",Ojo de Los Casos,Wildfire,"North of Mountainair, NM; West of Chilili","Friday July 17th, 2020 approx.   12:00 AM",180 Acres,100%
+Under Investigation,,"Monday June 08th, 2020 approx.   03:00 PM",,Mangum Fire,Wildfire,"30 miles south of Fredonia, AZ",,"71,450 Acres",100%
+Lightning,"36.331 latitude, -112.573 longitude ","Thursday July 16th, 2020 approx.   06:00 AM","grass, brush, pinyon/juniper",Thumb Fire,Wildfire,"33 mi NW of Tusayan, AZ",100%,3,"8,354 Acres"
+Lightning,"39.793 latitude, -108.195 longitude ","Monday July 13th, 2020 approx.   10:15 AM",,Stewart Fire,Wildfire,"22 miles SW of Meeker, CO",100%,4,212 Acres
+"33.591 latitude, -111.418 longitude ",,,,2020 Tonto NF BAER Information,Burned Area Emergency Response,,,,
+Lightning/natural,"33.415 latitude, -109.312 longitude ","Monday July 06th, 2020 approx.   09:08 AM",Primary carrier is grass with timber litter in the conifer stringers and timber stands. Brush patches add areas of intensity but are not currently contributing significantly to spread.,Bringham Fire,Wildfire,"22 Miles North of Morenci, AZ","Wednesday July 29th, 2020 approx.   12:00 AM","23,142 Acres",100%
+Lightning,,"Sunday July 26th, 2020 approx.   12:00 AM",,Six Rivers Lightning Fires 2020,Wildfire,"41.194 latitude, -123.458 longitude ",,,
+Unknown,"48.136 latitude, -119.038 longitude ","Thursday July 23rd, 2020 approx.   02:40 PM",,Greenhouse Fire,Wildfire,"1 mile SW of Nespelem, Washington",100%,134,"5,146 Acres"
+Lightning,"35.945 latitude, -115.446 longitude ","Monday July 20th, 2020 approx.   09:00 AM",,Cottonwood,Wildfire,Cottonwood Pass,100%,193,"2,817 Acres"
+Under Investigation,"48.652 latitude, -119.248 longitude ","Monday July 27th, 2020 approx.   04:15 PM",,Anglin Fire,Wildfire,"Anglin Fire - 8 miles E of Tonasket, WA
 
 Green Fire - 12 miles NE of Riverside, WA
 
 Blue Lake Fire - 8 miles N of Concunully, WA",100%,215,"1,992 Acres"
-Lightning,"35.945 latitude, -115.446 longitude ","Monday July 20th, 2020 approx.   09:00 AM",,Wildfire,Cottonwood Pass,100%,193,"2,817 Acres"
-Under Investigation,,"Monday June 08th, 2020 approx.   03:00 PM",,Wildfire,"30 miles south of Fredonia, AZ",,"71,450 Acres",100%
-Lightning,"33.57 latitude, -107.442 longitude ","Monday June 15th, 2020 approx.   12:33 PM","Timber (litter and understory), Timber (grass and understory)",Wildfire,"Vics Peak, Springtime Campground","Tuesday August 04th, 2020 approx.   12:00 AM","14,624 Acres",100%
-Human,"43.116 latitude, -102.621 longitude ","Tuesday June 16th, 2020 approx.   01:00 PM",Timber (grass and understory),Wildfire,"6 miles north of Pine Ridge, SD",100%,71,"1,577 Acres"
-Unknown,"48.136 latitude, -119.038 longitude ","Thursday July 23rd, 2020 approx.   02:40 PM",,Wildfire,"1 mile SW of Nespelem, Washington",100%,134,"5,146 Acres"
-Lightning,Lightning Strike Fires,"Sunday July 26th, 2020 approx.   05:00 PM",,Wildfire,Klamath National Forest,,,
-Lightning,Wildfire,"Wednesday July 22nd, 2020 approx.   10:15 AM",,Wildfire,"Tule Lake, Lava Beds National Monument, Medicine Lake, CA",97%,255,"83,261 Acres"
-Unknown,"46.205 latitude, -105.724 longitude ","Thursday July 30th, 2020 approx.   01:00 PM",,Wildfire,"15 miles south of Miles City, MT",100%,44,"1,289 Acres"
+Lightning,"33.57 latitude, -107.442 longitude ","Monday June 15th, 2020 approx.   12:33 PM","Timber (litter and understory), Timber (grass and understory)",Vics Peak,Wildfire,"Vics Peak, Springtime Campground","Tuesday August 04th, 2020 approx.   12:00 AM","14,624 Acres",100%
+Lightning,Lightning Strike Fires,"Sunday July 26th, 2020 approx.   05:00 PM",,KNF Lightning July 2020,Wildfire,Klamath National Forest,,,
+Lightning,Wildfire,"Wednesday July 22nd, 2020 approx.   10:15 AM",,July Complex 2020,Wildfire,"Tule Lake, Lava Beds National Monument, Medicine Lake, CA",97%,255,"83,261 Acres"
+Unknown,"46.205 latitude, -105.724 longitude ","Thursday July 30th, 2020 approx.   01:00 PM",,Pumpkin,Wildfire,"15 miles south of Miles City, MT",100%,44,"1,289 Acres"
+Lightning,Wildfire,"Sunday August 02nd, 2020 approx.   02:00 PM","Ponderosa Pine, Oak, Grasses",Halfway Fire,Wildfire,3 miles East of Tusayan near FR 302 & 2709,100%,30,97 Acres
+Human,"43.116 latitude, -102.621 longitude ","Tuesday June 16th, 2020 approx.   01:00 PM",Timber (grass and understory),Wilson Road,Wildfire,"6 miles north of Pine Ridge, SD",100%,71,"1,577 Acres"
 "Lightning
-",Wildfire ,"Saturday August 01st, 2020 approx.   08:00 PM",,Wildfire,"Eight (8) miles East of Twin Bridges, MT in the Tobacco Root Mountains
+",Wildfire ,"Saturday August 01st, 2020 approx.   08:00 PM",,Old Baldy Fire,Wildfire,"Eight (8) miles East of Twin Bridges, MT in the Tobacco Root Mountains
 
 Approximately 6 miles northeast of Sheridan, MT",50%,67,129 Acres
-Lightning,"40.336 latitude, -121.51 longitude ","Saturday August 01st, 2020 approx.   02:00 PM",,Wildfire,Near the junction of State Highways 36 and 172 near Childs Meadows.,97%,201,684 Acres
-Piece From Faulty Catalytic Converter,"34.713 latitude, -111.727 longitude ","Saturday August 01st, 2020 approx.   04:45 PM",,Wildfire,Approx. 5 miles s/se of Village of Oak Creek,80%,18,500 Acres
-Lightning,,"Friday August 07th, 2020 approx.   12:00 AM",,Wildfire,"Selway-Bitterroot Wilderness, Nez Perce-Clearwater National Forests",,2 Acres,
-Lightning,Wildfire,"Sunday August 02nd, 2020 approx.   02:00 PM","Ponderosa Pine, Oak, Grasses",Wildfire,3 miles East of Tusayan near FR 302 & 2709,100%,30,97 Acres
-Unknown,"40.954 latitude, -114.344 longitude ","Sunday August 02nd, 2020 approx.   02:07 PM",,Wildfire,"20 miles NW of Wendover, NV",95%,58,"7,115 Acres"
-Unknown,"41.004 latitude, -109.272 longitude ","Monday August 03rd, 2020 approx.   02:00 PM","Short Grass, Brush, Sage Brush, Juniper",Wildfire,"5 miles North of Dutch John, UT",90%,142,"7,633 Acres"
-"Natural, Lightning",Wildland Fire,"Wednesday July 29th, 2020 approx.   04:30 PM",,Wildfire,"23 miles east of Fredonia, AZ",100%,30,"11,405 Acres"
 Under Investigation,"Minimal Activity 
-Smoldering ","Monday July 27th, 2020 approx.   03:00 PM",,Wildfire,"8 MILES N/NE OF IDAHO CITY, ID",100%,96,91 Acres
-Lightning,"45.205 latitude, -119.194 longitude ","Tuesday July 28th, 2020 approx.   03:39 PM",,Wildfire,"13.5 miles northwest of Ukiah, Oregon",100%,5,85 Acres
-Human,"43.273 latitude, -102.711 longitude ","Thursday August 06th, 2020 approx.   05:00 PM","Rough Terrain, heavy fuel loading, continuous fuel",Wildfire,"Between Red Shirt and Oglala, South Dakota off SD Highway 41",95%,9,"1,367 Acres"
-Lightning,,"Wednesday July 22nd, 2020 approx.   08:00 PM",,Wildfire,"40.841 latitude, -122.885 longitude ",,15 Acres,
-"Sunday June 28th, 2020 approx.   02:30 PM",,Humboldt-Toiyabe National Forest,,Wildfire,Page For Emerging Initial Attack Incidents On The Humboldt-toiyabe National Forest.,,1 Acres,
-Lightning,"Grass, Sagebrush, Juniper","Wednesday August 05th, 2020 approx.   04:00 PM",,Wildfire,"20 miles SE of Princeton, Oregon",95%,115,"3,391 Acres"
+Smoldering ","Monday July 27th, 2020 approx.   03:00 PM",,Golden Fire,Wildfire,"8 MILES N/NE OF IDAHO CITY, ID",100%,96,91 Acres
+Piece From Faulty Catalytic Converter,"34.713 latitude, -111.727 longitude ","Saturday August 01st, 2020 approx.   04:45 PM",,Pig Fire,Wildfire,Approx. 5 miles s/se of Village of Oak Creek,80%,18,500 Acres
+Lightning,,"Friday August 07th, 2020 approx.   12:00 AM",,Cub Lake Fire,Wildfire,"Selway-Bitterroot Wilderness, Nez Perce-Clearwater National Forests",,2 Acres,
+Unknown,"41.004 latitude, -109.272 longitude ","Monday August 03rd, 2020 approx.   02:00 PM","Short Grass, Brush, Sage Brush, Juniper",Richard Mountain Fire,Wildfire,"5 miles North of Dutch John, UT",90%,142,"7,633 Acres"
+Unknown,"40.954 latitude, -114.344 longitude ","Sunday August 02nd, 2020 approx.   02:07 PM",,Lost Fire,Wildfire,"20 miles NW of Wendover, NV",95%,58,"7,115 Acres"
+"Natural, Lightning",Wildland Fire,"Wednesday July 29th, 2020 approx.   04:30 PM",,Pine Hollow Fire,Wildfire,"23 miles east of Fredonia, AZ",100%,30,"11,405 Acres"
+Lightning,"40.336 latitude, -121.51 longitude ","Saturday August 01st, 2020 approx.   02:00 PM",,Stump Fire,Wildfire,Near the junction of State Highways 36 and 172 near Childs Meadows.,97%,201,684 Acres
+Lightning,,"Wednesday July 22nd, 2020 approx.   08:00 PM",,SHF Lightning Fires 2020,Wildfire,"40.841 latitude, -122.885 longitude ",,15 Acres,
+"Sunday June 28th, 2020 approx.   02:30 PM",,Humboldt-Toiyabe National Forest,,Humboldt-Toiyabe 2020 Initial Attack ,Wildfire,Page For Emerging Initial Attack Incidents On The Humboldt-toiyabe National Forest.,,1 Acres,
+Under Investigation,"36.899 latitude, -119.24 longitude ","Monday August 03rd, 2020 approx.   12:45 PM",,Trimmer Fire,Wildfire,Approximately 1/2 mile southeast of Big Creek Road and Trimmer Springs Road intersection.,98%,134,594 Acres
+Human,"43.273 latitude, -102.711 longitude ","Thursday August 06th, 2020 approx.   05:00 PM","Rough Terrain, heavy fuel loading, continuous fuel",#6,Wildfire,"Between Red Shirt and Oglala, South Dakota off SD Highway 41",95%,9,"1,367 Acres"
+Lightning,"Grass, Sagebrush, Juniper","Wednesday August 05th, 2020 approx.   04:00 PM",,Neals Hill,Wildfire,"20 miles SE of Princeton, Oregon",95%,115,"3,391 Acres"
 Lightning,"The Phillips Fire, Reported On Aug. 5, Is Located About 8 Miles North Of Fairfield. It Was Started By Lightning.
 
 The Road Into The Area Is Closed. A Forest Closure Is In Place For The Fire Area.
-","Wednesday August 05th, 2020 approx.   11:00 PM",,Wildfire,"8 miles north of Fairfield, Idaho",100%,233,"2,112 Acres"
-Under Investigation,"36.899 latitude, -119.24 longitude ","Monday August 03rd, 2020 approx.   12:45 PM",,Wildfire,Approximately 1/2 mile southeast of Big Creek Road and Trimmer Springs Road intersection.,98%,134,594 Acres
-"Tuesday August 11th, 2020 approx.   07:00 PM",,"Matthew Voges, Texas A&M Forest Service; Mullin Fire Department","grass, brush",Wildfire,"31.513 latitude, -98.842 longitude ",100%,32,252 Acres
-"Monday August 10th, 2020 approx.   04:15 PM",,"Sam Bundy, Texas A&M Forest Service","grass, brush",Wildfire,"32.959 latitude, -98.28 longitude ",100%,18,"2,654 Acres"
-Lightning,Wildfire,"Monday June 15th, 2020 approx.   02:30 PM",,Wildfire,20 miles NW of Pagosa Springs CO,100%,5,107 Acres
-Lightning,,"Friday July 24th, 2020 approx.   12:00 AM",,Wildfire,4 miles south of White Wolf Campground and 1 mile west of Lukens Lake Trail ,"
+","Wednesday August 05th, 2020 approx.   11:00 PM",,Phillips Creek,Wildfire,"8 miles north of Fairfield, Idaho",100%,233,"2,112 Acres"
+Lightning,Wildfire,"Monday June 15th, 2020 approx.   02:30 PM",,Sand Creek Fire,Wildfire,20 miles NW of Pagosa Springs CO,100%,5,107 Acres
+Lightning,"45.205 latitude, -119.194 longitude ","Tuesday July 28th, 2020 approx.   03:39 PM",,Matlock Fire,Wildfire,"13.5 miles northwest of Ukiah, Oregon",100%,5,85 Acres
+"Tuesday August 11th, 2020 approx.   07:00 PM",,"Matthew Voges, Texas A&M Forest Service; Mullin Fire Department","grass, brush",Smith Fire,Wildfire,"31.513 latitude, -98.842 longitude ",100%,32,252 Acres
+"Monday August 10th, 2020 approx.   04:15 PM",,"Sam Bundy, Texas A&M Forest Service","grass, brush",Pennington Creek Fire,Wildfire,"32.959 latitude, -98.28 longitude ",100%,18,"2,654 Acres"
+Lightning,,"Friday July 24th, 2020 approx.   12:00 AM",,Blue Jay ,Wildfire,4 miles south of White Wolf Campground and 1 mile west of Lukens Lake Trail ,"
 ",81 Acres,
-Powerline,"30.863 latitude, -100.548 longitude ","Thursday August 13th, 2020 approx.   03:15 PM",,Wildfire,5 miles east of Eldorado,,73 Acres,100%
-"33.961 latitude, -116.811 longitude ",,,,Burned Area Emergency Response,,,,
-"Tuesday August 11th, 2020 approx.   12:00 AM",,"Josh McGee (IV, USFS)",Mixed,Wildfire,"43.39 latitude, -105.072 longitude ",40%,38,770 Acres
-Unknown,,BLM Wyoming,,Wildfire,"42.286 latitude, -107.052 longitude ",,"1,700 Acres",90%
-Lightning,"33.544 latitude, -110.42 longitude ","Saturday August 01st, 2020 approx.   04:30 PM","Primary carrier of the fire is currently the timber litter, grass and light brush associated with the under story of the ponderosa pine forest. Oak scrub is involved on the western edge of the burn area.",Wildfire,"11 miles north of San Carlos, AZ",90%,243,"21,284 Acres"
-"Monday August 03rd, 2020 approx.   12:00 AM",,San Mateo Mountains,Mixed Conifer and Ponderosa Pine,Wildfire,Ryan Carbajal,84%,20,26 Acres
-Lightning/natural,"33.415 latitude, -109.312 longitude ","Monday July 06th, 2020 approx.   09:08 AM",Primary carrier is grass with timber litter in the conifer stringers and timber stands. Brush patches add areas of intensity but are not currently contributing significantly to spread.,Wildfire,"22 Miles North of Morenci, AZ","Wednesday July 29th, 2020 approx.   12:00 AM","23,142 Acres",100%
-Lightning,"38.183 latitude, -119.869 longitude ","Tuesday July 28th, 2020 approx.   04:30 PM",,Wildfire,"Emigrant Wilderness, 1.5 miles southeast of Gianelli Trailhead, and 2 miles east of Crabtree Trailhead",,25,13 Acres
-Lightning,"47.991 latitude, -120.7 longitude ","Friday July 31st, 2020 approx.   12:00 AM","timber, brush",Wildfire,11 Miles NE of Lake Wenatchee,75%,149,430 Acres
-Unknown,"46.852 latitude, -112.671 longitude ","Thursday August 06th, 2020 approx.   12:00 AM","Heavy Timber (litter and understory),Fire is burning in gray stage beetle killed lodgepole with a high component of dead and down.  ",Wildfire,Brian McGowan,75%,30,5 Acres
-Debris Burning,"31.334 latitude, -99.769 longitude ","Thursday August 13th, 2020 approx.   05:15 PM",,Wildfire,"10 miles north of Eden, TX",,478 Acres,100%
-Under Investigation,Wildland Fire,"Thursday August 13th, 2020 approx.   01:45 PM",,Wildfire,Keyesville Area - Black Gulch North,80%,22,2 Acres
-Unknown,"39.572 latitude, -107.266 longitude ","Monday August 10th, 2020 approx.   01:30 PM","Extreme,Crowning,Running,Spotting,Narrative:,Fire spread is primarily wind and topography driven. Extreme fire behavior is expected when winds and,slope align. Fire is burning in and near several large canyons",Wildfire,Glenwood Canyon,"
+Lightning,"47.991 latitude, -120.7 longitude ","Friday July 31st, 2020 approx.   12:00 AM","timber, brush",Chikamin,Wildfire,11 Miles NE of Lake Wenatchee,75%,149,430 Acres
+Under Investigation,Wildland Fire,"Thursday August 13th, 2020 approx.   01:45 PM",,Gulch Fire,Wildfire,Keyesville Area - Black Gulch North,80%,22,2 Acres
+Debris Burning,"31.334 latitude, -99.769 longitude ","Thursday August 13th, 2020 approx.   05:15 PM",,Burk Fire,Wildfire,"10 miles north of Eden, TX",,478 Acres,100%
+Lightning,"37.654 latitude, -106.86 longitude ","Sunday June 28th, 2020 approx.   01:00 PM",,Goose Creek,Wildfire,"13 miles south of Creede, CO.",85%,3,171 Acres
+"Thursday August 13th, 2020 approx.   07:00 PM",,approximately 9 miles north of Fredericksburg,,Camp House Fire,Wildfire,"Curtis Ward, Texas A&M Forest Service ",,70 Acres,100%
+"32.237 latitude, -110.534 longitude ",,,,Mica Bowl Fire,Wildfire,,,,
+"Unknown, Under Investigation","40.609 latitude, -105.879 longitude ","Thursday August 13th, 2020 approx.   01:48 PM","Highway 14 is closed from Rustic to Gould. Larimer County has issued evacuation orders for areas around the fire from Highway 14 north to Deadman Road and Four Corners, from Red  Feather Lakes west to Cameron Pass.",Cameron Peak Fire,Wildfire,"15 miles SW of Redfeather Lakes, CO",,120,"5,424 Acres"
+Human,"45.655 latitude, -121.376 longitude ","Wednesday August 12th, 2020 approx.   12:00 AM",,Mosier Creek ,Wildfire,"Two miles south of Mosier, Oregon",30%,751,985 Acres
+"Friday August 14th, 2020 approx.   05:10 PM",,"Sam Bundy, Texas A&M Forest Service",,Turkey Creek Fire,Wildfire,"32.935 latitude, -98.136 longitude ",,67 Acres,70%
+"Friday August 14th, 2020 approx.   12:30 PM",,"Stephen Tanner, Texas A&M Forest Service",,Grasshopper Fire,Wildfire,"33.646 latitude, -98.322 longitude ",,104 Acres,100%
+Lightning,"33.667 latitude, -105.629 longitude ","Tuesday August 04th, 2020 approx.   04:30 PM",,Dark Canyon ,Wildfire,"Dark Canyon, North of Tucson Mountain. Approx. 9 miles from Capitan, NM",10%,102,"1,509 Acres"
+Lightning,"43.982 latitude, -116.058 longitude ","Thursday August 06th, 2020 approx.   01:55 AM",,Pumpkin Fire,Wildfire,"8 miles SSW of Garden Valley, Idaho",50%,345,438 Acres
+"32.204 latitude, -110.547 longitude ",,,,Spud Rock Fire,Wildfire,,,,
+"30.093 latitude, -97.203 longitude ",,,,Regen Hill Fire,Wildfire,,,25 Acres,95%
+Accidental Roadside Start,,"Thursday August 13th, 2020 approx.   04:30 PM",,Trails Fire,Wildfire,"Will Hood, Texas A&M Forest Service",95%,101,400 Acres
+Unknown,"39.572 latitude, -107.266 longitude ","Monday August 10th, 2020 approx.   01:30 PM","Extreme,Crowning,Running,Spotting,Narrative:,Fire spread is primarily wind and topography driven. Extreme fire behavior is expected when winds and,slope align. Fire is burning in and near several large canyons",Grizzly Creek Fire,Wildfire,Glenwood Canyon,"
 ,
 ,
 ,
 ,
 ",553,"19,440 Acres"
-Unknown,,"Thursday August 13th, 2020 approx.   02:53 PM",,Wildfire,SAN GABRIEL CYN RD/ N RANCH RD,3%,100,"1,400 Acres"
-Lightning/natural,"44.858 latitude, -113.437 longitude ","Tuesday August 11th, 2020 approx.   10:30 AM",Timber and brush,Wildfire,"29 air miles East of Salmon Idaho, South of Lemhi Pass","Wednesday September 30th, 2020 approx.   12:00 PM",318,"4,663 Acres"
-Lightning,"37.654 latitude, -106.86 longitude ","Sunday June 28th, 2020 approx.   01:00 PM",,Wildfire,"13 miles south of Creede, CO.",85%,3,171 Acres
-Lightning,"Wildfire Located 14 Northeast Of Willow Creek, Ca","Monday July 27th, 2020 approx.   11:03 AM",,Wildfire,"14 miles northeast of Willow Creek, CA",35%,"1,490","10,895 Acres"
-Unknown,"35.465 latitude, -118.544 longitude ","Monday August 03rd, 2020 approx.   03:30 PM",,Wildfire,"Near the community of Havilah in Kern County, about nine miles south of Lake Isabella.",99%,92,"7,760 Acres"
-Lightning,Wildfire,"Friday July 31st, 2020 approx.   05:15 PM","Pinyon, juniper, oak, and sage ",Wildfire,"18 miles north of Grand Junction, Colorado",7%,757,"74,807 Acres"
-Unknown,Wildfire,"Wednesday August 12th, 2020 approx.   03:45 PM","Chaparral (6 feet),Brush (2 feet),Timber (Grass and Understory)",Wildfire,"Lake Hughes, Unincorporated LA County",12%,"1,563","14,714 Acres"
-,,,,,,,,
-Human Caused,"33.998 latitude, -116.933 longitude ","Friday July 31st, 2020 approx.   05:00 PM",,Wildfire,Oak Glen Community/Cherry Valley,90%,897,"33,424 Acres"
+Unknown,"35.465 latitude, -118.544 longitude ","Monday August 03rd, 2020 approx.   03:30 PM",,Stagecoach Fire,Wildfire,"Near the community of Havilah in Kern County, about nine miles south of Lake Isabella.",99%,92,"7,760 Acres"
+Lightning/natural,"44.858 latitude, -113.437 longitude ","Tuesday August 11th, 2020 approx.   10:30 AM",Timber and brush,Bear Creek Fire,Wildfire,"29 air miles East of Salmon Idaho, South of Lemhi Pass","Wednesday September 30th, 2020 approx.   12:00 PM",318,"4,663 Acres"
+Lightning,"40.818 latitude, -119.648 longitude ","Wednesday August 12th, 2020 approx.   03:16 PM",,Poodle Fire,Wildfire,"20 miles NW of Gerlarch, NV",10%,319,"12,100 Acres"
+Lightning,"Wildfire Located 14 Northeast Of Willow Creek, Ca","Monday July 27th, 2020 approx.   11:03 AM",,Red Salmon Complex,Wildfire,"14 miles northeast of Willow Creek, CA",35%,"1,490","10,895 Acres"
+Lightning,Wildfire,"Thursday August 13th, 2020 approx.   12:00 AM",shrubs/trees/grasses,Wood Canyon,Wildfire,Peloncilo Mountain Wilderness,10%,40,"2,147 Acres"
+Human-caused - Suspected Arson,Wildfire,"Thursday August 13th, 2020 approx.   02:53 PM",,Ranch2,Wildfire,SAN GABRIEL CYN RD/ N RANCH RD,3%,143,"1,400 Acres"
+Human Caused,"33.998 latitude, -116.933 longitude ","Friday July 31st, 2020 approx.   05:00 PM",,Apple Fire,Wildfire,Oak Glen Community/Cherry Valley,90%,897,"33,424 Acres"
