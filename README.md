@@ -61,14 +61,17 @@ I considered after scraping the web site to start documenting the project with t
 <img src="./Inciweb.jpg">
 
 > Inciweb website Table of Incidents section
+---
 
 <img src="./Incident_info.jpg">
 
 > Inciweb website Incident Information section
+---
 
 <img src="./sample_csv.jpg">
 
 > Data scraped and saved as csv file
+---
 
 <img src="./final_w_miss.jpg">
 
