@@ -1,4 +1,4 @@
-# Learn to Scrape and Analyze Data
+# Learn to Scrape and Analyze Data with Python
 
 ## Analyzing Forest Fires
 
@@ -10,14 +10,12 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/Ringdealer/forest-fires?style=plastic)](https://github.com/Ringdealer/forest-fires/issues)
 
-
-`Marpesia eleuchea`, known commonly as `Antillean Daggerwing`, is found in the West Indies and sometimes in Florida keys. `Marpesia eleuchea eleuchea` is an endemic Cuban subespecies. Sometimes is abundant in groves and similar localities throughout the island. It is frequently found on the edge of forests, perched on flowers at a certain height. The specimen shown in the photo is a female.
 ---
+*Marpesia eleuchea*, known commonly as Antillean Daggerwing, is found in the West Indies and sometimes in Florida keys. *Marpesia eleuchea eleuchea* is an endemic Cuban subespecies. Sometimes is abundant in groves and similar localities throughout the island. It is frequently found on the edge of forests, perched on flowers at a certain height. The specimen shown in the photo is a female.
 <img src="./marpesia_res.jpg">
 
-> Marpesia eleuchea eleuchea [Photo by Ringdealer]
+> *Marpesia eleuchea eleuchea* [Photo by Ringdealer]
 ---
-
 ## Table of Contents
 - [Description](#description)
 - [Technologies](#technologies)
