@@ -1,1 +1,5 @@
-*.jpg
+**/blazes/blazes/
+**/blazes/scrapy.cfg
+**/blazes/test.csv
+**/blazes/test2.csv
+ForestFires_Missing.ipynb
