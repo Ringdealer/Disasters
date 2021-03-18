@@ -11,21 +11,22 @@
 [![GitHub issues](https://img.shields.io/github/issues/Ringdealer/forest-fires?style=plastic)](https://github.com/Ringdealer/forest-fires/issues)
 
 
-
+`Marpesia eleuchea`, known commonly as `Antillean Daggerwing`, is found in the West Indies and sometimes in Florida keys. `Marpesia eleuchea eleuchea` is an endemic Cuban subespecies. Sometimes is abundant in groves and similar localities throughout the island. It is frequently found on the edge of forests, perched on flowers at a certain height. The specimen shown in the photo is a female.
 ---
-<img src="./High.jpg">
+<img src="./marpesia_res.jpg">
 
-> Badass Hot Bold Guy
+> Marpesia eleuchea eleuchea [Photo by Ringdealer]
 ---
 
 ## Table of Contents
 - [Description](#description)
 - [Technologies](#technologies)
 - [Installation](#installation)
+- [Sample Output](#sample-output)
 - [API Reference](#api-reference)
-- [Using Jupyter Notebook](#jupyter)
+- [Using Jupyter Notebook](#using-jupyter-notebook)
 - [Roadmap](#roadmap)
-- [Comments and Suggestions](#comments)
+- [Comments and Suggestions](#comments-and-suggestions)
 
 
 ---
@@ -54,6 +55,25 @@ I considered after scraping the web site to start documenting the project with t
 - pip install dateparser
 - pip install reverse_geocoder
 
+---
+
+### Sample Output
+
+<img src="./Inciweb.jpg">
+
+> Inciweb website Table of Incidents section
+
+<img src="./Incident_info.jpg">
+
+> Inciweb website Incident Information section
+
+<img src="./sample_csv.jpg">
+
+> Data scraped and saved as csv file
+
+<img src="./final_w_miss.jpg">
+
+> Data frame after cleaning and manipulation (missing values not handled)
 ---
 
 ### API Reference
@@ -99,6 +119,10 @@ Currently chapter 2 is finished. I pretend to follow with chapter 3 and chapter 
 
 ---
 ### Comments and Suggestions
+
+After saving the dataframe as a csv file and then read it again into a new dataframe I notice that the column `Personnel Involved`, wich `float` values were converted to `int` via `astype(Int64)`, was converted back to `float`. I took care of this running again `astype(64)`. It is possible this is happening because Python's built-in csv module is very unsophisticated at handling mixed data types and does this type of conversion at import time.
+
+In the creation of the `Region` column the function `create_region_col`, which uses the package `reverse_geocode` via the function `get_location`, took more than a minute to execute. Any suggestion will be appreciated.
 
 ---
 
