@@ -12,6 +12,7 @@
 
 ---
 *Marpesia eleuchea*, known commonly as Antillean Daggerwing, is found in the West Indies and sometimes in Florida keys. *Marpesia eleuchea eleuchea* is an endemic Cuban subespecies. Sometimes is abundant in groves and similar localities throughout the island. It is frequently found on the edge of forests, perched on flowers at a certain height. The specimen shown in the photo is a female.
+
 <img src="./marpesia_res.jpg">
 
 > *Marpesia eleuchea eleuchea* [Photo by Ringdealer]
