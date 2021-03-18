@@ -122,7 +122,7 @@ Currently chapter 2 is finished. I pretend to follow with chapter 3 and chapter 
 ---
 ### Comments and Suggestions
 
-After saving the dataframe as a csv file and then read it again into a new dataframe I notice that the column `Personnel Involved`, wich `float` values were converted to `int` via `astype(Int64)`, was converted back to `float`. I took care of this running again `astype(64)`. It is possible this is happening because Python's built-in csv module is very unsophisticated at handling mixed data types and does this type of conversion at import time.
+After saving the dataframe as a csv file and then read it again into a new dataframe I notice that the column `Personnel Involved`, which `float` values were converted to `int` via `astype(Int64)`, was converted back to `float`. I took care of this running again `astype(Int64)`. It is possible this is happening because Python's built-in csv module is very unsophisticated at handling mixed data types and does this type of conversion at import time.
 
 In the creation of the `Region` column the function `create_region_col`, which uses the package `reverse_geocode` via the function `get_location`, took more than a minute to execute. Any suggestion will be appreciated.
 
