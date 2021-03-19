@@ -2,8 +2,6 @@ import dateparser
 import numpy as np
 import re
 
-
-
 def emend_values(orig_df, mod_df, source_col, target_col, pattern):
     """
     Function for assigning the correct values to its corresponding column. Note that
