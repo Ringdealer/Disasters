@@ -1,8 +1,7 @@
 import dateparser
 import numpy as np
-import pandas as pd
 import re
-import reverse_geocoder as rg
+
 
 
 def emend_values(orig_df, mod_df, source_col, target_col, pattern):
